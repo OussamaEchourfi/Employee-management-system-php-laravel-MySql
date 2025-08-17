@@ -8,4 +8,4 @@ php artisan migrate
 # Seed the database:
 php artisan db:seed
 # Login credentials
-Admin Account: ['email' => 'ayoub@gmail.com', 'password' => 'admin']
+Admin Account: ['email' => 'oussama@gmail.com', 'password' => 'VipGoat10']
